@@ -18,7 +18,7 @@ class WeatherApp:
 
         data = self.weather_data[city]
 
-        print("Weather Report")
+        print("Weather Report :")
         print("City", city.title())
         print("Current_weather", data["current_weather"])
         print("Wind_Speed", data["wind_speed"])

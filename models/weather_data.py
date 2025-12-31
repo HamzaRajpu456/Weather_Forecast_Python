@@ -1,6 +1,6 @@
 
 
-weather_data = {
+Weather_Data = {
 
 
     "lahore": {
@@ -11,7 +11,8 @@ weather_data = {
 
     },
 
-    "karcahi": {
+
+    "karachi": {
 
         "current_weather" : "Humidity",
         "wind_speed" : 4.7,
